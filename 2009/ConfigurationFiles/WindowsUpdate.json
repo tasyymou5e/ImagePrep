@@ -1,0 +1,22 @@
+[
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate\\AU", "Name": "NoAutoUpdate", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate", "Name": "SetDisableUXWUAccess", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate", "Name": "DisableWindowsUpdateAccess", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate", "Name": "DoNotConnectToWindowsUpdateInternetLocations", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\DeliveryOptimization\\Config", "Name": "DownloadMode", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\Software\\Policies\\Microsoft\\Office\\16.0\\Common\\OfficeUpdate", "Name": "EnableAutomaticUpdates", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate", "Name": "DeferQualityUpdates", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate", "Name": "DeferQualityUpdatesPeriodInDays", "Type": "DWord", "Value": 30, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate", "Name": "PauseQualityUpdatesStartTime", "Type": "String", "Value": "2021-10-31", "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate\\AU", "Name": "EnableFeaturedSoftware", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\UsoSvc", "Name": "Start", "Type": "DWord", "Value": 4, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\WaasMedicSvc", "Name": "Start", "Type": "DWord", "Value": 4, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\Software\\Policies\\Microsoft\\Windows\\DriverSearching", "Name": "DontSearchWindowsUpdate", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate\\AU", "Name": "AutoInstallMinorUpdates", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate", "Name": "DeferFeatureUpdates", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate", "Name": "BranchReadinessLevel", "Type": "DWord", "Value": 32, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate", "Name": "DeferFeatureUpdatesPeriodInDays", "Type": "DWord", "Value": 365, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate", "Name": "PauseFeatureUpdatesStartTime", "Type": "String", "Value": "2021-10-15", "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate", "Name": "ManagePreviewBuilds", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate", "Name": "ManagePreviewBuildsPolicyValue", "Type": "DWord", "Value": 0, "VDIState": "Enabled"}
+]
