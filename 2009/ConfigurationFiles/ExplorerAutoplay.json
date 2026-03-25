@@ -1,0 +1,21 @@
+[
+  {"Path": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer", "Name": "NoAutorun", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer", "Name": "NoDriveTypeAutoRun", "Type": "DWord", "Value": 255, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\AutoplayHandlers\\UserChosenExecuteHandlers\\StorageOnArrival", "Name": "(Default)", "Type": "String", "Value": "MSTakeNoAction", "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\AutoplayHandlers", "Name": "DisableAutoplay", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "SubscribedContent-338393Enabled", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "SubscribedContent-353694Enabled", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "SubscribedContent-353696Enabled", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "SubscribedContent-338387Enabled", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "SubscribedContent-338388Enabled", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "SubscribedContent-338389Enabled", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "SubscribedContent-353698Enabled", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "SubscribedContent-310093Enabled", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "SoftLandingEnabled", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "SystemPaneSuggestionsEnabled", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "ContentDeliveryAllowed", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "OemPreInstalledAppsEnabled", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "PreInstalledAppsEnabled", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "PreInstalledAppsEverEnabled", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager", "Name": "SilentInstalledAppsEnabled", "Type": "DWord", "Value": 0, "VDIState": "Enabled"}
+]

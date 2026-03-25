@@ -1,0 +1,11 @@
+[
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\Personalization", "Name": "LockScreenImage", "Type": "String", "Value": "", "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\System", "Name": "DisableAcrylicBackgroundOnLogon", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\System", "Name": "DisableLogonBackgroundImage", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\OptimalLayout", "Name": "EnableAutoLayout", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\DWM", "Name": "DisableAccentGradient", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer", "Name": "NoThemesTab", "Type": "DWord", "Value": 1, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\Windows Feeds", "Name": "EnableFeeds", "Type": "DWord", "Value": 0, "VDIState": "Enabled"},
+  {"Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Feeds", "Name": "ShellFeedsTaskbarViewMode", "Type": "DWord", "Value": 2, "VDIState": "Enabled"},
+  {"Path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\Personalization", "Name": "NoLockScreen", "Type": "DWord", "Value": 1, "VDIState": "Enabled"}
+]
