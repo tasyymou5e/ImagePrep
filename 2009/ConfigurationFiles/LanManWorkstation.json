@@ -1,0 +1,14 @@
+[
+  {
+    "HivePath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters",
+    "Keys": [
+      { "Name": "DirectoryCacheTimeout", "PropertyValue": "0", "PropertyType": "DWord", "SetProperty": true },
+      { "Name": "FileInfoCacheTimeout", "PropertyValue": "0", "PropertyType": "DWord", "SetProperty": true },
+      { "Name": "FileNotFoundCacheTimeout", "PropertyValue": "0", "PropertyType": "DWord", "SetProperty": true },
+      { "Name": "MaxCmds", "PropertyValue": "50", "PropertyType": "DWord", "SetProperty": true },
+      { "Name": "MaxMpxCt", "PropertyValue": "50", "PropertyType": "DWord", "SetProperty": true },
+      { "Name": "OplockBreakWait", "PropertyValue": "10", "PropertyType": "DWord", "SetProperty": true },
+      { "Name": "RequireSecureNegotiate", "PropertyValue": "0", "PropertyType": "DWord", "SetProperty": true }
+    ]
+  }
+]
