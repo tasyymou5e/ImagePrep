@@ -1,0 +1,12 @@
+[
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Edge", "RegItemValueName": "ConfigureHomepageURL", "RegItemValue": "about:blank", "RegItemValueType": "String", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Edge", "RegItemValueName": "HomepageIsNewTabPage", "RegItemValue": "0", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Edge", "RegItemValueName": "NewTabPageContentEnabled", "RegItemValue": "0", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Edge", "RegItemValueName": "NewTabPageSearchEnabled", "RegItemValue": "0", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Edge", "RegItemValueName": "ShowHomeButton", "RegItemValue": "0", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Edge", "RegItemValueName": "HideFirstRunExperience", "RegItemValue": "1", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Edge", "RegItemValueName": "SyncDisabled", "RegItemValue": "1", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Edge", "RegItemValueName": "MetricsReportingEnabled", "RegItemValue": "0", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Edge", "RegItemValueName": "EdgeShoppingTaskEnabled", "RegItemValue": "0", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Edge", "RegItemValueName": "DefaultAssociationsConfiguration", "RegItemValue": "%PROGRAMDATA%\\Microsoft\\Edge\\Application\\settings\\associations.json", "RegItemValueType": "String", "VDIState": "Enabled" }
+]
