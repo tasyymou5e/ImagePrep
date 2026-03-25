@@ -1,0 +1,19 @@
+[
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate\\AU", "RegItemValueName": "NoAutoUpdate", "RegItemValue": "0", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate\\AU", "RegItemValueName": "AUOptions", "RegItemValue": "3", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate", "RegItemValueName": "WUServer", "RegItemValue": "http://localhost:8530", "RegItemValueType": "String", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate", "RegItemValueName": "WUStatusServer", "RegItemValue": "http://localhost:8530", "RegItemValueType": "String", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications", "RegItemValueName": "NoCloudApplicationNotification", "RegItemValue": "1", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications", "RegItemValueName": "NoTileActiveNotification", "RegItemValue": "1", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\DataCollection", "RegItemValueName": "AllowTelemetry", "RegItemValue": "0", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System", "RegItemValueName": "EnableLUA", "RegItemValue": "0", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System", "RegItemValueName": "EnableUMBAA", "RegItemValue": "0", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\Personalization", "RegItemValueName": "NoLockScreen", "RegItemValue": "1", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKCU:\\Control Panel\\Desktop", "RegItemValueName": "MenuShowDelay", "RegItemValue": "0", "RegItemValueType": "String", "VDIState": "Enabled" },
+  { "RegItemPath": "HKCU:\\Control Panel\\Desktop", "RegItemValueName": "ForegroundLockTimeout", "RegItemValue": "0", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\VisualEffects", "RegItemValueName": "VisualFXSetting", "RegItemValue": "2", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced", "RegItemValueName": "Hidden", "RegItemValue": "1", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced", "RegItemValueName": "ShowSuperHidden", "RegItemValue": "1", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced", "RegItemValueName": "HideIcons", "RegItemValue": "0", "RegItemValueType": "DWord", "VDIState": "Enabled" },
+  { "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Control\\CrashControl", "RegItemValueName": "CrashDumpEnabled", "RegItemValue": "0", "RegItemValueType": "DWord", "VDIState": "Enabled" }
+]
