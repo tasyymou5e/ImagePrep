@@ -1,0 +1,6 @@
+[
+  {"Name": "wscsvc", "VDIState": "Disabled", "StartType": 4, "Description": "Windows Security Center Service"},
+  {"Name": "SecurityHealthService", "VDIState": "Disabled", "StartType": 4, "Description": "Windows Security Service"},
+  {"Name": "UsoSvc", "VDIState": "Disabled", "StartType": 4, "Description": "Update Orchestrator Service"},
+  {"Name": "WaasMedicSvc", "VDIState": "Disabled", "StartType": 4, "Description": "Windows Update Medic Service"}
+]

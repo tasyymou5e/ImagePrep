@@ -1,0 +1,21 @@
+[
+  { "Name": "DiagTrack", "VDIState": "Disabled", "Description": "Connected User Experiences and Telemetry" },
+  { "Name": "DPS", "VDIState": "Disabled", "Description": "Diagnostic Policy Service" },
+  { "Name": "DusmSvc", "VDIState": "Disabled", "Description": "Data Usage and Network Manager" },
+  { "Name": "icssvc", "VDIState": "Disabled", "Description": "Windows Mobile Hotspot Service" },
+  { "Name": "MapsBroker", "VDIState": "Disabled", "Description": "Downloaded Maps Manager" },
+  { "Name": "NetTcpPortSharing", "VDIState": "Disabled", "Description": "Net.Tcp Port Sharing Service" },
+  { "Name": "RemoteRegistry", "VDIState": "Disabled", "Description": "Remote Registry" },
+  { "Name": "SharedAccess", "VDIState": "Disabled", "Description": "Internet Connection Sharing" },
+  { "Name": "Spooler", "VDIState": "Disabled", "Description": "Print Spooler" },
+  { "Name": "Themes", "VDIState": "Disabled", "Description": "Themes Service" },
+  { "Name": "TrkWks", "VDIState": "Disabled", "Description": "Distributed Link Tracking Client" },
+  { "Name": "UdkUserSvc", "VDIState": "Disabled", "Description": "User Data Access" },
+  { "Name": "UmRdpService", "VDIState": "Disabled", "Description": "Remote Desktop Services UserMode Port Redirector" },
+  { "Name": "WinDefend", "VDIState": "Disabled", "Description": "Windows Defender Antivirus Service" },
+  { "Name": "WlanSvc", "VDIState": "Disabled", "Description": "WLAN AutoConfig" },
+  { "Name": "wscsvc", "VDIState": "Disabled", "Description": "Windows Security Center Service" },
+  { "Name": "WSearch", "VDIState": "Disabled", "Description": "Windows Search" },
+  { "Name": "wuauserv", "VDIState": "Disabled", "Description": "Windows Update" },
+  { "Name": "XboxNetApiSvc", "VDIState": "Disabled", "Description": "Xbox Live Networking Service" }
+]
